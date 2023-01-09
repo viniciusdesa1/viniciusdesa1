@@ -30,7 +30,7 @@
 <br/>
 
 <a href="https://github.com/viniciusdesa1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusdesa1&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
@@ -38,4 +38,3 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Vinicius de Sá Martins](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/viniciusdesa1?label=follow&style=social)](LINK-DO-SEU-GITHUB)
