@@ -1,9 +1,9 @@
 
-![](https://komarev.com/ghpvc/?username=viniciusdesa1&color=006bed)
+
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👨‍💻 Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/ead/">UniCesumar</a>.
