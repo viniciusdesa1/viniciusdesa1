@@ -1,28 +1,24 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B3058&height=120&section=header"/>
 
 
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-<h3> 👨‍💻 Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/ead/">UniCesumar</a>.
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=156dcc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+de+Sá;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-  ![PHP](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusdesa1&show_icons=true&count_private=true&hide_border=true&title_color=156dcc&icon_color=156dcc&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius de Sá github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdesa1&layout=compact&hide_border=true&title_color=156dcc&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
+ 
+ ### Minhas Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
-<br/>
+### Onde me encontrar:
+<div align="start"> 
+<a href="https://www.linkedin.com/in/viniciusdesamartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B3058&height=120&section=footer"/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Vinicius de Sá Martins](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
