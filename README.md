@@ -4,6 +4,10 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<img src="https://raw.githubusercontent.com/viniciusdesa1/viniciusdesa1/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Presentation -->
 <p>
   Olá 👋, sou o Vini! Apenas um apaixonado por tecnologia.
