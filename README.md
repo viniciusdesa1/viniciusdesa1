@@ -1,12 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-
-<img src="https://raw.githubusercontent.com/viniciusdesa1/viniciusdesa1/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- Presentation -->
 <p>
@@ -59,6 +57,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 <img width="12" />
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
 
 
 
